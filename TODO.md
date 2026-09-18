@@ -20,6 +20,7 @@ This file is the working source of truth for launching and maintaining the Equel
 - [x] Add website-only privacy and terms drafts.
 - [x] Add an Nginx configuration for DigitalOcean.
 - [x] Verify that the pages, scripts, styles, and local assets respond successfully.
+- [x] Initialize the website Git repository and publish `main` to GitHub.
 
 ## Tasks Codex can complete
 
@@ -136,6 +137,7 @@ These steps combine project-file work from Codex with approval, credentials, or 
 Record decisions here so they are not lost between work sessions.
 
 - Production domain: **Awaiting confirmation (`equelyn.com` is currently assumed).**
+- Source repository: **`https://github.com/completewebco/Equelyn.git`.**
 - Contact email: **Awaiting confirmation (`hello@equelyn.com` is currently used).**
 - Waitlist destination: **Not selected.**
 - Analytics provider: **Not selected; analytics are currently disabled.**
